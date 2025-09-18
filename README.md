@@ -28,7 +28,7 @@ You should see:
 
 🐙 GitHub Repo: node_docker_app
 
-🐳 Docker Hub Image: ashvinarora07/node_docker_app:latest
+🐳 Docker Hub Image: ashvinarora07/nodejsapp:latest
 
 
 
