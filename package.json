@@ -1,0 +1,23 @@
+{
+  "name": "docker_nodejs",
+  "version": "1.0.0",
+  "description": "A sample node js app",
+  "homepage": "https://github.com/AshvinArora07/node_docker_app#readme",
+  "bugs": {
+    "url": "https://github.com/AshvinArora07/node_docker_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshvinArora07/node_docker_app.git"
+  },
+  "license": "ISC",
+  "author": "Ashvin Arora",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
